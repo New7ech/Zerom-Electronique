@@ -1,0 +1,26 @@
+# IDE et Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Système
+Thumbs.db
+.env
+.env.local
+
+# Dependencies (si vous ajoutez npm plus tard)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build files
+dist/
+build/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.log
