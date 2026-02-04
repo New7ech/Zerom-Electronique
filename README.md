@@ -1,8 +1,8 @@
-# Zerom Electronique
+# ZOROM Electronique
 
 ## 📱 Description
 
-**Zerom Electronique** est un site e-commerce moderne pour la vente d'électronique et d'accessoires. C'est un projet portfolio développé avec HTML5, CSS3, JavaScript vanilla et Bootstrap.
+**ZOROM Electronique** est un site e-commerce moderne pour la vente d'électronique et d'accessoires. C'est un projet portfolio développé avec HTML5, CSS3, JavaScript vanilla et Bootstrap.
 
 ### Caractéristiques principales :
 - 🏠 Page d'accueil avec slider de bannière
@@ -38,7 +38,7 @@
 ## 📁 Structure du Projet
 
 ```
-Zerom Electronique/
+ZOROM Electronique/
 ├── index.html                 # Page d'accueil
 ├── computers.html             # Catalogue ordinateurs
 ├── mans_clothes.html          # Téléphones et accessoires
@@ -66,8 +66,8 @@ Zerom Electronique/
 ### Installation
 1. Clonez le repository :
 ```bash
-git clone https://github.com/[votre-username]/Zerom-Electronique.git
-cd Zerom-Electronique
+git clone https://github.com/[votre-username]/ZOROM-Electronique.git
+cd ZOROM-Electronique
 ```
 
 2. Ouvrez le projet dans votre navigateur :
